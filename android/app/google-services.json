@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846414713195",
+    "project_id": "driving-to-korea",
+    "storage_bucket": "driving-to-korea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846414713195:android:d2dc8e515745f5c7a87c2e",
+        "android_client_info": {
+          "package_name": "com.example.driving_korea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mka_drFSvFLqVl2sOczyuuNoR5BZA4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

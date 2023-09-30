@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Paris", "Berlin", "Madrid", "Rome"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "answers": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon dioxide"
+    }
+  ]
+  

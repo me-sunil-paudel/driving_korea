@@ -1,0 +1,41 @@
+name: driving_korea
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  advance_pdf_viewer_fork: ^2.0.0
+  audioplayers: ^5.1.0
+  cloud_firestore: ^4.9.2
+  firebase_auth: ^4.9.0
+  firebase_core: ^2.15.1
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.2
+  google_sign_in: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/apple.jpg
+    - assets/bg.jpg
+    - assets/girl.webp
+    - assets/pdf/pdf_file.pdf
+    - assets/data/question1_data.json
+    - assets/correct.mp3
+    - assets/incorrect.mp3
+    - assets/stop.jpg
+    - assets/bgi.webp
+
+    # Add more image assets as needed
+
+
+  
